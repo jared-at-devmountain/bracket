@@ -1,0 +1,13 @@
+.node-box {
+    height: 30px;
+    width: 70px;
+    margin: 30px;
+}
+
+.active-node-box {
+    background-color: lightgreen;
+}
+
+.inactive-node-box {
+    background-color: grey;
+}
